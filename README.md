@@ -1,6 +1,6 @@
 ## #NEEDFORSPEED Hackathon with MATLAB
 ### Download MATLAB for Challenges: Pop Health and Patient Engagement, The Data Around Us
-Visit [mathworks.com/trial](httpps:/www.mathworks.com/trial)
+[Trial](httpps:/www.mathworks.com/trial)
 
 ### Use AppStream to run MATLAB for the Pfizer Digital Medicine Challenge
 If you have a laptop with a USB-C port, you may alternatively borrow a GPU + enclosure from MathWorks mentors!
