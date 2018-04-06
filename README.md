@@ -6,6 +6,7 @@
 * For melspectrogram images -> C:\Users\Public\Documents\MATLAB\forHackathon\melspectrograms
 * For time-frequency plots generated using wavelets  -> C:\Users\Public\Documents\MATLAB\cwt_images
 
+![alt tag](https://user-images.githubusercontent.com/9381653/38443336-5ba11340-39b9-11e8-873c-43afa3e893e5.PNG)
 ### You can get started with MATLAB training example
 ```MATLAB
 >>test_training_example_MATLAB
