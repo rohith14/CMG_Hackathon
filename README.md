@@ -7,6 +7,7 @@
 
 ## Use AppStream to run MATLAB for the Pfizer Digital Medicine Challenge
 If you have a laptop with a USB-C port, you may alternatively borrow a GPU + enclosure from MathWorks mentors!
+![alt tag](https://user-images.githubusercontent.com/11076410/38444740-83dafac4-39be-11e8-8413-b84398bfe4b4.PNG)
 
 ### Challenge dataset is here:
 * For raw audio data -> C:\Users\Public\Documents\MATLAB\forHackathon\audio
