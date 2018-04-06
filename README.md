@@ -10,6 +10,8 @@ If you have a laptop with a USB-C port, you may alternatively borrow a GPU + enc
 
 Refer [here](https://github.com/rohith14/CMG_Hackathon/blob/master/Userguide_AppStream.docx) for more information on AppStream
 
+![alt tag](https://user-images.githubusercontent.com/11076410/38444740-83dafac4-39be-11e8-8413-b84398bfe4b4.PNG)
+
 ### Challenge dataset is here:
 * For raw audio data -> C:\Users\Public\Documents\MATLAB\forHackathon\audio
 * For spectrogram images -> C:\Users\Public\Documents\MATLAB\forHackathon\spectrograms
