@@ -2,8 +2,8 @@
 
 ### Challenge data-set is here:
 * For raw audio data -> C:\Users\Public\Documents\MATLAB\forHackathon\audio
-* For spectrogram images -> C:\Users\Public\Documents\MATLAB\spectrograms
-* For melspectrogram images -> C:\Users\Public\Documents\MATLAB\melspectrograms
+* For spectrogram images -> C:\Users\Public\Documents\MATLAB\forHackathon\spectrograms
+* For melspectrogram images -> C:\Users\Public\Documents\MATLAB\forHackathon\melspectrograms
 * For time-frequency plots generated using wavelets  -> C:\Users\Public\Documents\MATLAB\cwt_images
 
 ### You can get started with MATLAB training example
