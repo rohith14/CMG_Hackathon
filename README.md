@@ -15,4 +15,4 @@
 ### Other examples
 * [Deep Learning Onramp](https://www.mathworks.com/training-schedule/deep-learning-onramp)
 * [Deep Learning Speech Recognition](https://www.mathworks.com/help/nnet/examples/deep-learning-speech-recognition.html)
-* [Speaker Identification Using Pitch and MFCC](https://www.mathworks.com/help/audio/examples/speaker-identification-using-pitch-and-mfcc.html)n
+* [Speaker Identification Using Pitch and MFCC](https://www.mathworks.com/help/audio/examples/speaker-identification-using-pitch-and-mfcc.html)
