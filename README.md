@@ -1,4 +1,6 @@
-### Use AppStream to log in to run MATLAB for the Pfizer Digital Medicine Challenge
+### Use AppStream to to run MATLAB for the Pfizer Digital Medicine Challenge
+
+If you have a laptop with a USB-C port, you may also borrow a GPU + enclosure from MathWorks mentors!
 
 ### Challenge dataset is here:
 * For raw audio data -> C:\Users\Public\Documents\MATLAB\forHackathon\audio
