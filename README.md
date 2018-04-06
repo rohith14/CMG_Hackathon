@@ -1,6 +1,6 @@
-### Use AppStream to log-in to MATLAB
+### Use AppStream to log in to run MATLAB for the Pfizer Digital Medicine Challenge
 
-### Challenge data-set is here:
+### Challenge dataset is here:
 * For raw audio data -> C:\Users\Public\Documents\MATLAB\forHackathon\audio
 * For spectrogram images -> C:\Users\Public\Documents\MATLAB\forHackathon\spectrograms
 * For melspectrogram images -> C:\Users\Public\Documents\MATLAB\forHackathon\melspectrograms
