@@ -1,4 +1,4 @@
-### Use AppStream to to run MATLAB for the Pfizer Digital Medicine Challenge
+### Use AppStream to run MATLAB for the Pfizer Digital Medicine Challenge
 
 If you have a laptop with a USB-C port, you may also borrow a GPU + enclosure from MathWorks mentors!
 
